@@ -1,0 +1,24 @@
+{
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#e7e7e799",
+    "editorGroup.border": "#0a5f3c",
+    "sash.hoverBorder": "#0a5f3c",
+    "sideBar.border": "#0a5f3c",
+    "statusBar.background": "#0a5f3c",
+    "statusBar.debuggingBackground": "#5f0a2d",
+    "statusBar.debuggingForeground": "#e7e7e7",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#0f8d59",
+    "statusBarItem.remoteBackground": "#0a5f3c",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "tab.activeBorder": "#0a5f3c",
+    "titleBar.activeBackground": "#0a5f3c",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#0a5f3c99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#0a5f3c",
+  "cSpell.words": [
+    "colelescense"
+  ]
+}
